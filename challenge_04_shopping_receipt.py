@@ -7,9 +7,10 @@ item3_price = float(input("Enter item 3 price: "))
 
 total_price = item1_price + item2_price + item3_price
 print(
-f"{item1_name:<5}:     ${item1_price:>6.2f}\n"
-f"{item2_name:<5}:     ${item2_price:>6.2f}\n"
-f"{item3_name:<5}:     ${item3_price:>6.2f}\n"
+"-----------------------\n"    
+f"{item1_name:<10}:${item1_price:>6.2f}\n"
+f"{item2_name:<10}:${item2_price:>6.2f}\n"
+f"{item3_name:<10}:${item3_price:>6.2f}\n"
 "-----------------------\n"
-f"TOTAL:             ${total_price:.2f}"
+f"{'Total':<10}:${total_price:>6.2f}"
 )
