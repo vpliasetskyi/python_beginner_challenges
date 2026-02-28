@@ -9,8 +9,8 @@
 | 1 | Personalised Greeting | `challenge/01-greeting` | ✅ Done |
 | 2 | Age Calculator | `challenge/02-age-calculator` | ✅ Done |
 | 3 | Temperature Converter | `challenge/03-temperature-converter` | ✅ Done |
-| 4 | Shopping Receipt | `challenge/04-shopping-receipt` | ⏳ Pending |
-| 5 | Profile Card | `challenge/05-profile-card` | ⏳ Pending |
+| 4 | Shopping Receipt | `challenge/04-shopping-receipt` | ✅ Done |
+| 5 | Profile Card | `challenge/05-profile-card` | ✅ Done |
 
 ## Outputs
 
@@ -53,6 +53,16 @@
 **Output:**
 
 ![Challenge 4 Output](screenshots/challenge_04_output.png)
+
+### Challenge 5 - Profile Card
+
+**Concepts:** `input()`, `int()`, `float()`, `str()`, f-strings, multiple data types together
+
+**Solution file:** `challenge_05_profile_card.py`
+
+**Output:**
+
+![Challenge 5 Output](screenshots/challenge_05_output.png)
 
 
 
