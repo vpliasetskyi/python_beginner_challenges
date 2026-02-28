@@ -28,7 +28,7 @@
 
 **Concepts:** `input()`,f-strings, string concatenation, adding variables, `int()`
 
-**Solution file:** `challenge_02-age-calculator.py`
+**Solution file:** `challenge_02_age_calculator.py`
 
 **Output:**
 
